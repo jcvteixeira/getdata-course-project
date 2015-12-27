@@ -28,8 +28,8 @@ Identifies the activity the subject was performing when the sensor measurements 
 See the full list in the file "colnames.txt" (rows 3 to 68).  
 These 66 variables correspond to the subset of variables in the raw data ("UCI HAR Dataset/features.txt") whose name contains mean() or std().  
 For detailed descriptions of these variables see: "UCI HAR Dataset/features_info.txt".  
-Units (there are four types of variables, defined by substrings in their names):
-    * Acc: non-dimensional factor relative to the standard gravity acceleration 'g'
-    * Gyro: radians/sec
-    * AccJerk: /sec
-    * GyroJerk: radians/sec/sec
+Units:
+    * Acc variables: non-dimensional factor relative to the standard gravity acceleration 'g'
+    * Gyro variables: radians/sec
+    * AccJerk variables: /sec
+    * GyroJerk variables: radians/sec/sec
