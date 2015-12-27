@@ -9,7 +9,7 @@ run_analysis.R
 This script prepares a tidy data set, according to the course project definition:
 https://class.coursera.org/getdata-035/human_grading/view/courses/975119/assessments/3/submissions
 
-Input:
+Input:  
 Raw data sets downloaded from the course project page (link above) and stored in text files inside a folder called "UCI HAR Dataset".
 
 Output:
@@ -19,3 +19,4 @@ Output:
 
 Required non-default packages (will be installed automatically):
 * reshape2
+
